@@ -76,18 +76,18 @@ A web application project focused on creating an accessible marketplace where ar
 
 **Technologies:** Next.js, React, PostgreSQL, MongoDB, Cloudinary, and authentication.
 
-[View Repository](https://github.com/Archbee12/REPLACE-WITH-HANDCRAFTED-HAVEN-REPO)
+[View Repository](https://github.com/Archbee12/wdd430-team11-project)
 
 ---
 
 ### 💻 TechVault
-**A skill-tracking application for aspiring software developers.**
+**A skill-tracking mobile application for aspiring software developers.**
 
 A collaborative project designed to help developers organize their learning journeys, set goals, monitor progress, identify strengths, and recognize areas for improvement.
 
 **Technologies:** Kotlin, Jetpack Compose, Firebase, and Firestore.
 
-[View Repository](https://github.com/Archbee12/REPLACE-WITH-TECHVAULT-REPO)
+[View Repository](https://github.com/Archbee12/techvault)
 
 ---
 
@@ -98,7 +98,7 @@ An application that allows users to create, view, complete, and delete study tas
 
 **Technologies:** Kotlin, Gradle, and object-oriented programming.
 
-[View Repository](https://github.com/Archbee12/REPLACE-WITH-KOTLIN-STUDY-PLANNER-REPO)
+[View Repository](https://github.com/Archbee12/kotlin-study-planner)
 
 ---
 
