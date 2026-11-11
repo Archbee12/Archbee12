@@ -58,7 +58,7 @@ I believe great software isn't just written — it's built, tested, improved, an
 ### Tools & Development Practices
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development tools"/>
 </p>
 
 - REST API Development
